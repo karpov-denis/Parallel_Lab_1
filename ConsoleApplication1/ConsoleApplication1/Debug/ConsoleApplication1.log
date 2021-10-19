@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Denis\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Denis\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(138,58): warning C4244: =: преобразование "double" в "BYTE", возможна потеря данных
+C:\Users\Denis\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(139,58): warning C4244: =: преобразование "double" в "BYTE", возможна потеря данных
+C:\Users\Denis\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(140,58): warning C4244: =: преобразование "double" в "BYTE", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Denis\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
